@@ -1,0 +1,722 @@
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 3467 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 3482 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60609 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60632 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60655 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60678 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60701 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60724 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60747 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 60770 was not found when attempting to remove it
+
+(sublime_text:7803): Gtk-WARNING **: Error loading theme icon 'dialog-information' for stock: Fatal error reading PNG image file: bad parameters to zlib
+
+** (sublime_text:7803): WARNING **: Pixbuf theme: Cannot load pixmap file /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png: Failed to load image '/usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png': Fatal error in PNG image file: bad parameters to zlib
+
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Buttons/button-default.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Pixbuf theme: Cannot load pixmap file /usr/share/themes/Adwaita/gtk-2.0/Others/focus.png: Failed to load image '/usr/share/themes/Adwaita/gtk-2.0/Others/focus.png': Fatal error in PNG image file: bad parameters to zlib
+
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+** (sublime_text:7803): WARNING **: Invalid borders specified for theme pixmap:
+        /usr/share/themes/Adwaita/gtk-2.0/Others/focus.png,
+borders don't fit within the image
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_n_channels: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_pixels_with_length: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_rowstride: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_width: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GdkPixbuf-CRITICAL **: gdk_pixbuf_get_height: assertion 'GDK_IS_PIXBUF (pixbuf)' failed
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105365 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105388 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105411 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105434 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105457 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 105480 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 120960 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 150664 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 171425 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 171448 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 171471 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 171494 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 171517 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 172769 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205529 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205552 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205575 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205598 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205621 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205644 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205667 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205690 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205713 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205736 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205759 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205782 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205805 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205828 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205851 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205874 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205897 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205920 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205943 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205966 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 205989 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206012 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206035 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206058 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206081 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206104 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206127 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206150 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 206173 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218010 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218033 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218056 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218079 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218102 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218125 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 218148 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 226812 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 226835 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 412622 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 412645 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 412668 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 412691 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 412714 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 427897 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 428717 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 437133 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440103 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440126 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440149 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440172 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440195 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 440218 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 446509 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470099 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470122 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470145 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470168 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470191 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470214 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470237 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470260 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470283 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470306 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470329 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470352 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470375 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470398 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470421 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470444 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470467 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470490 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470513 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470536 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470559 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470582 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470605 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470628 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470651 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470674 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470697 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470720 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470743 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470763 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470786 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470809 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470829 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470852 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470875 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470898 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470921 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470944 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470967 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 470990 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 471013 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 471924 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 471947 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 471970 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 472216 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 472239 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 472262 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 472285 was not found when attempting to remove it
+
+(sublime_text:7803): GLib-CRITICAL **: Source ID 472308 was not found when attempting to remove it
